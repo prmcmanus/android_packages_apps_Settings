@@ -314,6 +314,11 @@
     <!-- title for lock screen blur preference -->
     <string name="lockscreen_blur_enabled_title">Blur background</string>
 
+    <!-- Secure lockscreen -->
+    <string name="lockscreen_enable_power_menu_title">Secure lockscreen</string>
+    <string name="lockscreen_enable_power_menu_summary">Prevent access to quick settings and power menu</string>
+
+
     <!-- Proximity wake -->
     <string name="proximity_wake_title">Prevent accidental wake-up</string>
     <string name="proximity_wake_summary">Check the proximity sensor prior to wake-ups triggered by gestures</string>
